@@ -44,9 +44,8 @@ footer {
 
 /*------------------Project Styling-----------*/
 .project {
-    border: 5px solid rgb(70, 65, 65);
     margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
     margin-left: 50px;
     margin-right: 50px;
 
@@ -73,4 +72,13 @@ img {
     padding-right: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+.link:hover,
+:focus{
+    background-color: rgb(190, 94, 111);
+}
+
+.summary {
+    margin-bottom: 40px;
 }
